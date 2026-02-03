@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1386491679 &1
+PresetManager:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_DefaultPresets:
+  - first:
+      m_NativeTypeID: 1006
+      m_ManagedTypePPtr: {fileID: 0}
+      m_ManagedTypeFallback: 
+    second:
+    - m_Preset: {fileID: 2655988077585873504, guid: ac57dd9989ab90248a2a5d5c33ebf4d3,
+        type: 2}
+      m_Filter: '*_Color'
+      m_Disabled: 0
+    - m_Preset: {fileID: 2655988077585873504, guid: bc57774fdc7204542bfc9c0b5f16d186,
+        type: 2}
+      m_Filter: '*_Displacement'
+      m_Disabled: 0
+    - m_Preset: {fileID: 2655988077585873504, guid: cf850fa3944229d47b9ddd34421a8ee5,
+        type: 2}
+      m_Filter: '*_NNAR'
+      m_Disabled: 0
+    - m_Preset: {fileID: 2655988077585873504, guid: 0104368ba1c61594db24d68c4f14180a,
+        type: 2}
+      m_Filter: Lightmap*_comp_dir
+      m_Disabled: 0
+    - m_Preset: {fileID: 2655988077585873504, guid: 9c70fe86a1f0b1a45b077836e18ab31c,
+        type: 2}
+      m_Filter: Lightmap*_comp_light
+      m_Disabled: 0
+    - m_Preset: {fileID: 2655988077585873504, guid: cc0a84ada406b114abdc0a3869e9cf1c,
+        type: 2}
+      m_Filter: Lightmap*_comp_shadowmask
+      m_Disabled: 0

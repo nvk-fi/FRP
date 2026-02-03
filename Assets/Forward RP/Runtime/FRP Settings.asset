@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb5ede49b4ed4b1c810ff791055487c6, type: 3}
+  m_Name: FRP Settings
+  m_EditorClassIdentifier: 
+  srpBatchingEnabled: 1
+  mipBias: -0.8
+  mipReflectionDistanceScale: 1
+  ambientLightColor: {r: 0.02, g: 0.025, b: 0.03, a: 1}
+  shL0Intensity: 1
+  shDesaturation: 0
+  shMultiplier: 1
+  sunShadowMapRatioForStaticObjects: 0.5
+  sunShadowMapRatioForDynamicObjects: 0.5
+  sunShadowMapResolution: 4096
+  sunShadowMapPositionDistance: 64
+  sunShadowMapPositionSnapDistance: 4
+  sunShadowMapFrustumWidth: 64
+  sunShadowMapFrustumFar: 128
+  sunShadowBias: 0.0025
+  sunGrazingBias: 0.04
+  atmosphereThickness: 0.5
+  sunShadowMapVolumetricSteps: 10
+  fogColor: {r: 0.81180096, g: 0.84225917, b: 0.90099996, a: 1}
+  fogRange: {x: 25, y: 250}
+  fogHeight: 0.1
+  fogSunBloomExponent: 32
+  ppfxMaterial: {fileID: 2100000, guid: e33b308fe9f036b49b80114f62b404c4, type: 2}
+  ppfxLensDistortionStrength: 0.5
+  ppfxBloomThreshold: 1
+  ppfxBloomIntensity: 0.2
+  ppfxBloomSize: 1
