@@ -1,4 +1,6 @@
-A project I practiced graphics programming with.
+A Unity render pipeline built from scratch, entirely independent of the URP and HDRP.
+
+Alongside my experiments, I found many years’ worth of comprehensive learning materials and graphics research freely available online. I especially want to acknowledge Cem Yuksel, Raimond Tunnell, Steven Seitz, Inigo Quilez, and Bartosz Ciechanowski for their invaluable contributions to the field. I am truly grateful for your work. Thank you all.
 
 See also:
 [LightProbeBox](https://github.com/NVK-fi/LightProbeBox) & [BatchTextureChannelPacker](https://github.com/NVK-fi/BatchTextureChannelPacker).
